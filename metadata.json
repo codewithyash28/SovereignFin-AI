@@ -1,0 +1,6 @@
+{
+  "name": "SovereignFin AI",
+  "description": "Unified enterprise-grade Autonomous Multi-Agent Financial SaaS Engine featuring high-speed micro-ledgers, behavior security sentinels, liability compression matrices, and carbon logistics models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
